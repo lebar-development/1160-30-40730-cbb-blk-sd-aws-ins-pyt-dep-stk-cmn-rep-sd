@@ -1,3 +1,18 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "resourceNameKEY": "jump-base-1160-30-tip-sd",
+  "resourceStringTypeKEY": "none",
+  "resourceTextKEY": "private ip address",
+  "resourceDescriptionKEY": "This private ip address is used by the ubuntu user.",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "none",
+    "ifqridKEY": "1160-30-00020-jjr-tip-sd-aws",
+    "resourceTypeKEY": "tip",
+    "blockNumberKEY": "1160-30",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
 }
