@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "none",
+  "resourceNameKEY": "ec2-jump-base-2a-1160-30-sub-sd",
+  "cfqridKEY": "1160-30-10515-scr-sub-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1160-30-10515-scr-sub-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber10500KEY": "10515",
+  "deletionProtectionFlag10500KEY": "none"
 }
