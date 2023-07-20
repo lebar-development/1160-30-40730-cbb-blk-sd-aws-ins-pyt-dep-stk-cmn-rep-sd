@@ -1,3 +1,18 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "resourceNameKEY": "jump-base-1160-30-eip-sd",
+  "resourceStringTypeKEY": "none",
+  "resourceTextKEY": "elastic ip address",
+  "resourceDescriptionKEY": "This elastic ip address is attached to the Jump EC2 instance.",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "none",
+    "ifqridKEY": "1160-30-10545-fjr-eip-sd-aws",
+    "resourceTypeKEY": "eip",
+    "blockNumberKEY": "1160-30",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
 }
