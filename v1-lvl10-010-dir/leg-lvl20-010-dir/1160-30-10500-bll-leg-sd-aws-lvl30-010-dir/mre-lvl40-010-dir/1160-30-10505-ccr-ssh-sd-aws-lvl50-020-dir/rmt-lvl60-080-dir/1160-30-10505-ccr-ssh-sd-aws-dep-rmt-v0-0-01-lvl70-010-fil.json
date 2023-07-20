@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "none",
+  "resourceNameKEY": "jump-base-1160-30-ssh-sd",
+  "ifqridKEY": "1160-30-10505-ccr-ssh-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1160-30-10505-ccr-ssh-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber10500KEY": "10505",
+  "deletionProtectionFlag10500KEY": "none"
 }
