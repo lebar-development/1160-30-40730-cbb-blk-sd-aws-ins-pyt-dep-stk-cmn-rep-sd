@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "none",
+  "resourceNameKEY": "jump-base-ubuntu-v22-04-ubuntu-password-1160-30-sec-sd",
+  "cfqridKEY": "1160-30-10550-mjr-sec-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1160-30-10550-mjr-sec-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber10500KEY": "10550",
+  "deletionProtectionFlag10500KEY": "none"
 }
